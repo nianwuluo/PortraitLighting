@@ -21,3 +21,5 @@
 5. **Test the trained model in a gradio demo**
 
    Use relight_gradio.py
+   Noteworthily，we have open-sourced our model weights on [Hugging Face](https://huggingface.co/nianwuluo/PortraitLighting/tree/main).
+
